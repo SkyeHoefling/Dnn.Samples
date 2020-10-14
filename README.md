@@ -1,0 +1,2 @@
+# DNN (Formerly DotNetNuke) Samples
+This is [Andrew Hoefling](https://github.com/ahoefling) personal DNN samples repository. Here you will find samples for various types of DNN extensions and modules that you can use as examples.
